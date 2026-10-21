@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Pixelle
+GenericName=Image Editor
+Comment=Raster image editor
+Exec=pixelle %f
+Terminal=false
+Categories=Graphics;RasterGraphics;
+MimeType=image/png;image/jpeg;image/bmp;image/webp;image/tiff;
